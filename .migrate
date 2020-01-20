@@ -1,0 +1,17 @@
+{
+  "lastRun": "1579285657642-usersManagement.js",
+  "migrations": [
+    {
+      "title": "1579284455239-usersManagement.js",
+      "timestamp": 1579286852018
+    },
+    {
+      "title": "1579285470981-usersManagement.js",
+      "timestamp": 1579286852037
+    },
+    {
+      "title": "1579285657642-usersManagement.js",
+      "timestamp": 1579286852040
+    }
+  ]
+}
